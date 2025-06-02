@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "102051737703",
+    "project_id": "hourguard-d1d37",
+    "storage_bucket": "hourguard-d1d37.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102051737703:android:622ce9f6470d03c06ee4c2",
+        "android_client_info": {
+          "package_name": "com.example.hourguardapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102051737703-p803gea5qojhklf903obr1m57n7lj6lg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXQ5K8nkNIukZBvCmH-eRQXYCYnPWGSnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102051737703-p803gea5qojhklf903obr1m57n7lj6lg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
